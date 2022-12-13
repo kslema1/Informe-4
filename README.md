@@ -3,17 +3,33 @@
 ![image](https://user-images.githubusercontent.com/116772752/207201776-715155bd-9106-42bb-9510-bf0d8c2301d1.png)
 
 UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+
 ASIGNATURA: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
+
 INGENIERO: DARWIN ALULEMA
+
 ESTUDIANTE: LEMA KEVIN
+
 TEMA DEL INFORME Y EJERCICIOS: PRINCIPIO DE CIRCUITOS ELÉCTRICOS- FLOYD CAPITULOS 3 Y 4 LEY DE OHM ENERGÍA Y POTENCÍA
+
 FECHA 25 de DICIEMBRE del 2022 PRINCIPIOS DE CIRCUITOS ELECTRICOS FLOYD
+
 1.	TEMA: Principios de circuitos eléctricos Floyd del capítulo siete y ocho con ejercicios pares.
-2.	OBJETIVO:
-2.1 OBJETIVO GENERAL: Analizar y desarrollar el informe del circuito en serie-paralelo y teoremas de circuito y conversiones interviniendo los temas circuito serie, circuito paralelo, la ley de Ohm y leyes de Kirchhoff para la comprensión de los fundamentos en la electrónica mediante el uso de herramientas de investigacion y realizacion de ejercicios.
-2.2 OBJETIVOS ESPECIFICOS: • Identificar los conceptos básicos de cada tema y subtema de los capítulos 7 y 8 mediante el uso del libro de Floyd. • Realizar mapas mediante conceptos o mentefactos las partes más importantes del circuito serie- paralelo con el uso de conceptos de circuito serie, paralelo, ley de Ohm, y ley de Kirchhoff, de los capítulos leídos en el libro de Floyd. • Comprender y desarrollar correctamente los ejercicios planteados para el capítulo 7 y 8 del libro de Floyd, aplicando los conceptos y fórmulas básicas para la resolución de estos.
-3.	MARCO TEÓRICO
+
+
+3.	OBJETIVO
+
+
+5.1 OBJETIVO GENERAL: Analizar y desarrollar el informe del circuito en serie-paralelo y teoremas de circuito y conversiones interviniendo los temas circuito serie, circuito paralelo, la ley de Ohm y leyes de Kirchhoff para la comprensión de los fundamentos en la electrónica mediante el uso de herramientas de investigacion y realizacion de ejercicios.
+
+
+5.2 OBJETIVOS ESPECIFICOS: • Identificar los conceptos básicos de cada tema y subtema de los capítulos 7 y 8 mediante el uso del libro de Floyd. • Realizar mapas mediante conceptos o mentefactos las partes más importantes del circuito serie- paralelo con el uso de conceptos de circuito serie, paralelo, ley de Ohm, y ley de Kirchhoff, de los capítulos leídos en el libro de Floyd. • Comprender y desarrollar correctamente los ejercicios planteados para el capítulo 7 y 8 del libro de Floyd, aplicando los conceptos y fórmulas básicas para la resolución de estos.
+
+6.	MARCO TEÓRICO
+
+
 CIRCUITO SERIE-PARALELO
+
 Figura 1 Circuito en serie-paralelo
 
 ![image](https://user-images.githubusercontent.com/116772752/207201812-bf05750b-8eca-4f58-8029-7efee8fd1002.png)
